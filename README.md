@@ -1,9 +1,8 @@
-# Java Docs: Beginner to Professional
+# Java Docs: For Professional
 
-Welcome to **Java Docs: Beginner to Professional** – a comprehensive, structured, and beginner-friendly documentation series designed to take you from your first "Hello, World!" in Java to mastering advanced concepts used by professional developers.
+Welcome to **Java Docs: For Professional** – a comprehensive, structured documentation series designed for you to master advanced concepts used by professional developers.
 
 This repository is ideal for:
-- Students and beginners getting started with Java.
 - Intermediate developers looking to level up.
 - Professionals needing a quick refresher or deeper understanding.
 - Anyone preparing for coding interviews or Java certifications.
@@ -11,23 +10,11 @@ This repository is ideal for:
 ---
 ## What You'll Learn
 
-### Beginner Level
-
-* Java installation and IDE setup
-* Data types, variables, and operators
-* Conditionals and loops
-* Methods and recursion
-
-### Intermediate Level
-
 * Object-Oriented Programming (OOP) concepts
 * Java Collections Framework
 * Exception handling
 * File handling and I/O
 * Basic multithreading
-
-### Advanced Level
-
 * Java 8+ features (Streams, Lambdas, Optionals)
 * Design patterns for scalable applications
 * Multithreading and synchronization
@@ -38,7 +25,6 @@ This repository is ideal for:
 
 ## Features
 
-* Beginner-friendly explanations with code examples
 * Practical exercises and mini-projects
 * Best practices and design insights
 * Clear path from basics to advanced
@@ -63,23 +49,13 @@ This repository is ideal for:
    cd Java
   
 
-2. **Start from `01_Basics/`** and work your way down.
+2. **Start from `Core/Introduction`** and work your way down.
 
 3. Use the markdown files for conceptual understanding.
 
 4. Practice coding along with the `.java` files.
 
 5. Try out the projects to test your skills in real-world scenarios.
-
----
-
-## Who This Is For
-
-* High school and college students learning Java.
-* Self-taught programmers preparing for interviews.
-* Java developers switching from procedural to OOP thinking.
-* Developers learning clean code, testing, and patterns.
-
 ---
 
 ## Contributing
