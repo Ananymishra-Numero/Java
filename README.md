@@ -59,7 +59,7 @@ This repository is ideal for:
 
 1. **Clone the repo**
 
-   git clone https://github.com/Ananymishra-Numero/Java.git
+   git clone https://github.com/ananymishradev/Java.git
    cd Java
   
 
@@ -109,7 +109,7 @@ To contribute:
 
 ## 📬 Contact
 
-For suggestions or questions, reach out via [GitHub Issues](https://github.com/Ananymishra-Numero/Java/issues) or drop an email at `anany.mishra.real@gmail.com`.
+For suggestions or questions, reach out via [GitHub Issues](https://github.com/ananymishradev/Java/issues) or drop an email at `anany.mishra.real@gmail.com`.
 
 ---
 
